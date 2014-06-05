@@ -27,4 +27,6 @@ var multiple = function() {
   move(document.getElementById('wall').childNodes[0]);
 };
 
-//I'd like to try pushing all the bricks to an array, I think that could be an interesting challenge.  I'd also like to try to figure out how to make this all be one big function with multiple nested functions and still work.  Plus get the actual 'brick-laying' to work.
+//I'd like to try pushing all the bricks to an array, I think that could be an interesting challenge.
+//I'd also like to try to figure out how to make this all be one big function with multiple
+//nested functions and still work.  Plus get the actual 'brick-laying' to work.
