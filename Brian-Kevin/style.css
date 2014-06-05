@@ -1,0 +1,6 @@
+.brick {
+    float:left;
+    border: 1px solid black;
+    height: 50px;
+    width: 100px;
+}
